@@ -10,6 +10,7 @@ A curated list of awesome Pandas extensions using the Pandas extension API or [p
 - [pyjanitor](https://github.com/ericmjl/pyjanitor) - Data cleaning API for Pandas DataFrames.
 - [python-ctd](https://github.com/pyoceans/python-ctd) - Tools to load hydrographic data into Pandas DataFrames.
 - [Pandas plot API](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html) - Part of Pandas core, acts like an extension.
+- [Pandas Reconcile](https://gitlab.com/ngraves/pandas_reconcile) - Simple and correct hierarchical aggregation
 
 ## Other Resources
 
